@@ -4,8 +4,7 @@
 
 ### Category Name 1 
 
-[Project M Title](https://github.com/git-agastya/moon-projects))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project Python on Moon](https://github.com/git-agastya/moon-projects))
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
