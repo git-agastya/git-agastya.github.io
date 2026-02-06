@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### My interesting Projects
 
 [Project Python on Moon](https://github.com/git-agastya/moon-projects)
 
