@@ -7,12 +7,12 @@
 [Project Python on Moon](https://github.com/git-agastya/moon-projects)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project PyGames](https://github.com/git-agastya/All-my-Games)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project AI Chatbot](https://github.com/git-agastya/AI-Chatbot)
+
+[Project Game WebApp](https://github.com/git-agastya/Game_Webapp)
 
 ---
 
