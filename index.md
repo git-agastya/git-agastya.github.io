@@ -12,9 +12,13 @@
 ---
 [Project AI Chatbot](https://github.com/git-agastya/AI-Chatbot)
 
+---
+
 [Project Game WebApp](https://github.com/git-agastya/Game_Webapp)
 
 ---
+
+[Project Interesting](https://github.com/git-agastya/interesting)
 
 ### Category Name 2
 
